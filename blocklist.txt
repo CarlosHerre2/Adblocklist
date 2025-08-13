@@ -1,0 +1,5 @@
+0.0.0.0 	hollywoodbets.net
+0.0.0.0  	yesplay.bet
+0.0.0.0   exness.com
+0.0.0.0  	filmysub.com
+0.0.0.0   piaproxy.com
